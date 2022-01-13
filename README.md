@@ -10,4 +10,4 @@ For more details on ELDAD, please go to [http://pc-chem-basics.blog.jp/archives/
 ELDAD uses [rxnlvl](https://github.com/eutactic/rxnlvl) and [CairoSVG](https://github.com/Kozea/CairoSVG) as external Python packages.  
 
 Windons executable can be downloaded on the following link:  
-[**ELDAD.zip**](https://github.com/RyokoKuga/ELDAD/releases/download/1.0.0/ELDAD.zip)
+[**ELDAD.zip**](https://github.com/RyokoKuga/ELDAD/releases/download/2.0.0/ELDAD.zip)
